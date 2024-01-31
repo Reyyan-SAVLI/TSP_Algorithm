@@ -1,1 +1,2 @@
 # TSP_Algorithm
+Gezgin Satıcı Problemine (Travel Salesman Problem (TSP)) yani başlanılan noktaya geri dönmek kaydıyla var olan noktaları ziyaret edecek en düşük maliyeti bulmaya yönelik olan algoritma, python dili kullanılarak geliştirilmiştir. Algoritmaya verilen giriş verileri bize verilen txt dosyalarındaki 5,124,1000,5915,11849,85900 sayılarda noktalar barındıran verilerdir. Çıkış olarak ise bu veri girişleriyle ortaya çıkan en kısa yol, toplam mesafe ve geçen süre bilgisidir.
